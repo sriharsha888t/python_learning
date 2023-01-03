@@ -47,3 +47,4 @@ print(heapq.nsmallest(2,l3))
 
 
 
+
