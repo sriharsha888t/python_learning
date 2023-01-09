@@ -1,5 +1,5 @@
 from math import sqrt
-n = 71
+n = 72
 
 prime_flag = 0
 

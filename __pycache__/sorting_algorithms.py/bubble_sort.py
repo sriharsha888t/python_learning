@@ -1,6 +1,6 @@
 # Implimentation of bubble sort
 
-import sorting
+
 def bubble_sort(array):          # defining the function with name bubble_sort
     n = len(array)               # finding the length of the array that is passed by the function call
                                   # ex:len is 6
